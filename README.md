@@ -13,5 +13,7 @@ Back-End:
 https://github.com/Alexandria0/petwell_back
 
 Front-End: TypeScript, React, Next.js, Tailwind CSS, HTML, CSS
+
 Back-End: C#, .NET 9, ASP.NET Core
+
 Database: MongoDB
